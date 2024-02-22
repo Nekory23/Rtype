@@ -1,0 +1,16 @@
+set(SHARED_COMP_HDR
+    shared/include/ECS/Component/AI.hpp
+    shared/include/ECS/Component/Animation.hpp
+    shared/include/ECS/Component/Bonus.hpp
+    shared/include/ECS/Component/Component.hpp
+    shared/include/ECS/Component/Damage.hpp
+    shared/include/ECS/Component/Drawable.hpp
+    shared/include/ECS/Component/Event.hpp
+    shared/include/ECS/Component/HitBox.hpp
+    shared/include/ECS/Component/Position.hpp
+    shared/include/ECS/Component/Sound.hpp
+    shared/include/ECS/Component/Velocity.hpp
+    shared/include/ECS/Component/Vie.hpp
+    shared/include/ECS/Component/Weapon.hpp
+    shared/include/ECS/Component/WeaponList.hpp
+)

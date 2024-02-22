@@ -1,0 +1,15 @@
+set(SHARED_COMP_SRC
+    shared/src/ECS/Component/AI.cpp
+    shared/src/ECS/Component/Animation.cpp
+    shared/src/ECS/Component/Bonus.cpp
+    shared/src/ECS/Component/Damage.cpp
+    shared/src/ECS/Component/Drawable.cpp
+    shared/src/ECS/Component/Event.cpp
+    shared/src/ECS/Component/HitBox.cpp
+    shared/src/ECS/Component/Position.cpp
+    shared/src/ECS/Component/Sound.cpp
+    shared/src/ECS/Component/Velocity.cpp
+    shared/src/ECS/Component/Vie.cpp
+    shared/src/ECS/Component/Weapon.cpp
+    shared/src/ECS/Component/WeaponList.cpp
+)
